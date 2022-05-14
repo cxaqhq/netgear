@@ -1,4 +1,7 @@
 # NETGEAR ProSafe  SSL VPN
+# CVE-2022-29383
+to https://github.com/badboycxcc/Netgear-ssl-vpn-20211222-CVE-2022-29383
+
 SQL injection vulnerability exists in scgi-bin/platform.cgi
 Firmware version：
 FVS318Gv2 and FVS318N
